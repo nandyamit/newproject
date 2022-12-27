@@ -1,0 +1,99 @@
+
+body {
+   margin:0;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0px;
+    }
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.top-nav {
+    background-color: black;
+    height: 100px;
+    position: -webkit-sticky;
+    position:sticky;
+    top:0;
+       }
+
+.logo{
+    position: relative;
+    top:10%;
+    left:5%;
+    width: 70px;
+    display: inline-block;
+    margin-left: 30px;
+    width: 90px;
+    
+    }
+
+.menu1 {
+    color: #E8F3D6;
+    font-size: 20px;
+    position: relative;
+        left:57%;
+    display: inline-block;
+
+}
+
+.menu2 {
+    color: #E8F3D6;
+    font-size: 20px;
+    position: relative;
+    left:60%;
+    display: inline-block;
+}
+
+.menu3 {
+    color: #E8F3D6;
+    font-size: 20px;
+    position: relative;
+    left:63%;
+    display: inline-block;
+}
+
+.Top-container {
+    background-color: #E8F3D6;
+     
+    }
+
+.cloud-1 {
+        margin-left: 70%;
+        width: 250px;
+    }
+.cloud-2 {
+    margin-left: 10%;
+    width: 250px;
+}
+
+.mountain {
+    display:block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.middle-container {
+    background-color: red;
+      height: 800px;
+    }
+
+.bottom-container {
+    background-color: blue;
+    height: 800px;
+    }   
+
+    .heading {
+        font-size: 60px;
+        text-align: center;
+        margin: 0px;
+        padding-top: 100px;
+    }
+
+
